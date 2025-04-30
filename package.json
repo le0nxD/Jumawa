@@ -1,0 +1,24 @@
+{
+  "name": "tetrisjumawa4",
+  "version": "1.0.0",
+  "description": "Permainan TetrisJumawa4 dengan JavaScript",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^4.2.1",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "terser-webpack-plugin": "^4.1.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "surge --project ./dist/ --domain TetrisJumawa4.surge.sh"
+  },
+  "keywords": [
+    "tetrisjumawa4"
+  ],
+  "author": "Kelompok 2F Jumawa",
+  "license": "ISC"
+  }
