@@ -1,6 +1,6 @@
 🎮 Jumawa - Tetris in JavaScript
 
-Selamat datang di Jumawa, game klasik Tetris yang dibuat dengan JavaScript murni, HTML, dan CSS. Proyek ini dibuat untuk latihan logika, DOM manipulation, dan pengembangan game sederhana berbasis web.
+Selamat datang di Jumawa, game klasik Tetris yang dibuat dengan JavaScript murni. Proyek ini dibuat untuk latihan logika, DOM manipulation, dan pengembangan game sederhana berbasis web.
 
 🚀 Live Demo
 Coba langsung di browser: [Jumawa Tetris Live](TetrisJumawa4.surge.sh)
