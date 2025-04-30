@@ -1,5 +1,3 @@
----
-
 # 🎮 Jumawa — Tetris in Pure JavaScript
 
 **Jumawa** is a classic Tetris clone built entirely with vanilla JavaScript. This project was created as a fun way to practice logic, DOM manipulation, and build a simple browser-based game without external libraries.
