@@ -3,7 +3,7 @@
 Selamat datang di Jumawa, game klasik Tetris yang dibuat dengan JavaScript murni, HTML, dan CSS. Proyek ini dibuat untuk latihan logika, DOM manipulation, dan pengembangan game sederhana berbasis web.
 
 🚀 Live Demo
-Coba langsung di browser: [Jumawa Tetris Live](https://le0nxd.github.io/Jumawa)
+Coba langsung di browser: [Jumawa Tetris Live](TetrisJumawa4.surge.sh)
 
 🧩 Fitur
 
@@ -37,7 +37,7 @@ Coba langsung di browser: [Jumawa Tetris Live](https://le0nxd.github.io/Jumawa)
 Proyek ini ditujukan sebagai sarana belajar dan eksplorasi:
 - Algoritma grid dan collision detection
 - Event handling di JavaScript
-- Game loop sederhana menggunakan `setInterval`
+- Game loop sederhana
 
 📌 Catatan Tambahan
 
